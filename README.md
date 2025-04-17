@@ -114,6 +114,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name -Oman Neupane
 
-Project Link: 
+Project Link: https://github.com/Oman724/ai-healthcare-system-using-blockchain
 
  
